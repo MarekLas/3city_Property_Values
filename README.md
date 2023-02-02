@@ -36,6 +36,10 @@ Sale transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and G
 
 * Kupił/Buyer - information who bought the property.
 
+## <b>Link to the script</b>
+
+### <b></b>
+
 
 
 
