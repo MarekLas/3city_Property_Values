@@ -40,6 +40,9 @@ Sale transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and G
 
 ### <b></b>
 
+## Modules used in the script
+
+<img src="" align="center" width ="70%"/> 
 
 
 
