@@ -44,17 +44,37 @@ Sale transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and G
 
 <img src="" align="center" width ="70%"/> 
 
+## Data sample
 
+<img src="" align="center" width ="70%"/> 
 
+## Data information
 
+<img src="" align="center" width ="70%"/>
 
+## Data describe
 
+<img src="" align="center" width ="70%"/>
 
+## Missing values
 
+<img src="" align="center" width ="70%"/>
 
+## Change the columns names
 
+<img src="" align="center" width ="70%"/>
 
+## Price for 1 squared meter
 
+<img src="" align="center" width ="70%"/>
+
+<img src="" align="center" width ="70%"/>
+
+## Date
+
+<img src="" align="center" width ="70%"/>
+
+## City
 
 
 
