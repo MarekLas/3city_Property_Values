@@ -76,6 +76,91 @@ Sale transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and G
 
 ## City
 
+<img src="" align="center" width ="70%"/>
+
+## Precinct
+
+<img src="" align="center" width ="70%"/>
+
+## Sold right
+
+<img src="" align="center" width ="70%"/>
+
+## Usable area
+
+<img src="" align="center" width ="70%"/>
+
+<img src="" align="center" width ="70%"/>
+
+## Assign area
+
+<img src="" align="center" width ="70%"/>
+
+<img src="" align="center" width ="70%"/>
+
+## Rooms
+
+<img src="" align="center" width ="70%"/>
+
+## Storey
+
+<img src="" align="center" width ="70%"/>
+
+<img src="" align="center" width ="70%"/>
+
+## Seller
+
+<img src="" align="center" width ="70%"/>
+
+## Buyer
+
+<img src="" align="center" width ="70%"/>
+
+## Correlation matrix
+
+<img src="" align="center" width ="70%"/>
+
+## Dependiencies
+
+### Cities
+
+<img src="" align="center" width ="70%"/>
+
+### Urban area
+
+<img src="" align="center" width ="70%"/>
+
+### Floor category
+
+<img src="" align="center" width ="70%"/>
+
+## Models
+
+### Linear Regression
+
+<img src="" align="center" width ="70%"/>
+
+### Lasso Regression
+
+<img src="" align="center" width ="70%"/>
+
+### Adaboost Regression
+
+<img src="" align="center" width ="70%"/>
+
+### Ridge Regression
+
+<img src="" align="center" width ="70%"/>
+
+### Random Forest Regression
+
+<img src="" align="center" width ="70%"/>
+
+### KNeighbors Regression
+
+<img src="" align="center" width ="70%"/>
+
+### SVR Regression
 
 
 
