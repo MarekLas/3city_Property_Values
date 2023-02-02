@@ -12,7 +12,7 @@ Sale transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and G
 
 * Data transakcji/Transaction date - day, month and year of the transaction.
 
-* Miasto/City - one of the trec cities: Gdańsk, Sopot and Gdynia. Where are the premises.
+* Miasto/City - one of the three cities: Gdańsk, Sopot and Gdynia. Where are the premises.
 
 * Obręb/Precinct - part of the city where the premises is located.
 
