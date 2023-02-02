@@ -44,15 +44,15 @@ Sale transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and G
 
 ## Modules used in the script
 
-<img src="" align="center" width ="70%"/> 
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/01_pv_modules_v2.png" align="center" width ="60%"/> 
 
 ## Data sample
 
-<img src="" align="center" width ="70%"/> 
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/02_pv_data.JPG" align="center" width ="100%"/> 
 
 ## Data information
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/03_pv_info.JPG" align="center" width ="30%"/>
 
 ## Data describe
 
@@ -60,111 +60,119 @@ Sale transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and G
 
 ## Missing values
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/05_pv_isnull.JPG" align="center" width ="20%"/>
 
 ## Change the columns names
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/06_pv_data_rename.JPG" align="center" width ="100%"/>
 
 ## Price for 1 squared meter
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/07_pv_price_for_1m2_hist.jpg" align="center" width ="50%"/>
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/08_pv_price_for_1m2_boxplot.jpg" align="center" width ="35%"/>
 
 ## Date
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/09_date_to_year_month_day.JPG" align="center" width ="100%"/>
 
 ## City
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/10_pv_cities.jpg" align="center" width ="60%"/>
 
 ## Precinct
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/11_pv_urban_areas.jpg" align="center" width ="60%"/>
 
 ## Sold right
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/12_pv_sold_right.jpg" align="center" width ="60%"/>
 
 ## Usable area
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/13_pv_usable_area_hist.jpg" align="center" width ="60%"/>
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/14a_pv_usable_area_boxplot.jpg" align="center" width ="35%"/>
 
 ## Assign area
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/14_pv_assign_area_hist.jpg" align="center" width ="60%"/>
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/15_pv_asign_area_boxplot.jpg" align="center" width ="35%"/>
 
 ## Rooms
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/16_pv_belonging_room_countplot.jpg" align="center" width ="60%"/>
+
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17_pv_numbers_of_rooms_countplot.jpg" align="center" width ="60%"/>
+
+## Updated prices
+
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17a_pv_updted_prices_hist.jpg" align="center" width ="60%"/>
+
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17b_pv_updted_prices_boxplot.jpg" align="center" width ="35%"/>
 
 ## Storey
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/18_pv_storey_cat.png" align="center" width ="60%"/>
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/19_pv_storey_countplot.jpg" align="center" width ="60%"/>
 
 ## Seller
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/20_pv_sellers_countplot.jpg" align="center" width ="60%"/>
 
 ## Buyer
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21_pv_buyers_countplot.jpg" align="center" width ="60%"/>
+
+## Final dataframe
+
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21a_pv_final_data.jpg" align="center" width ="60%"/>
 
 ## Correlation matrix
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/22_pv_correlation_matrix.jpg" align="center" width ="60%"/>
 
 ## Dependiencies
 
 ### Cities
 
-<img src="" align="center" width ="70%"/>
-
-### Urban area
-
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/23_pv_pairplot_cities.jpg" align="center" width ="60%"/>
 
 ### Floor category
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/25_pv_pairplot_storey_cat.jpg" align="center" width ="60%"/>
 
 ## Models
 
 ### Linear Regression
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/26_pv_linear_regression_v2.jpg" align="center" width ="40%"/>
 
 ### Lasso Regression
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/27_pv_lasso_regression_v2.jpg" align="center" width ="40%"/>
 
 ### Adaboost Regression
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28_pv_adaboost_regressor_v2.jpg" align="center" width ="40%"/>
 
 ### Ridge Regression
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/29_pv_ridge_regressor_v2.jpg" align="center" width ="40%"/>
 
 ### Random Forest Regression
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28a_pv_random_forest_v2.jpg" align="center" width ="40%"/>
 
 ### KNeighbors Regression
 
-<img src="" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/30_pv_kneighbors_v2.jpg" align="center" width ="40%"/>
 
 ### SVR Regression
 
-
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/31_pv_svr_v2.jpg" align="center" width ="40%"/>
 
 
 
