@@ -84,4 +84,4 @@ Sale transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and G
 
 
 
-<img align="center" width ="40%" src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/work_in_progress.webp" />
+<img align="center" width ="30%" src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/work_in_progress.webp" />
