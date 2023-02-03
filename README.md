@@ -8,7 +8,7 @@
 
 ## Context
 
-Sale transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and Gdynia.
+Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and Gdynia.
 
 ## Data Dictionary
 
