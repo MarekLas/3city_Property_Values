@@ -174,6 +174,23 @@ Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and 
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/31_pv_svr_v2.jpg" align="center" width ="40%"/>
 
+### Ranking table
+
+<img src="" width ="40%"/>
+
+### Barplot charts
+
+* Coefficient of determination - R2-score
+
+<img src="" width ="40%"/>
+
+* Mean Absolute Error - MAE
+
+<img src="" width ="40%"/>
+
+## Summary
+
+
 
 
 
