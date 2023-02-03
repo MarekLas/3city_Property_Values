@@ -164,7 +164,7 @@ Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and 
 
 ### Random Forest Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28a_pv_random_forest_v2.jpg" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28b_pv_random_forest_v3.jpg" align="center" width ="40%"/>
 
 ### KNeighbors Regression
 
@@ -176,17 +176,17 @@ Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and 
 
 ### Ranking table
 
-<img src="" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/32_pv_scores_mae_ranking_table.JPG" width ="40%"/>
 
 ### Barplot charts
 
 * Coefficient of determination - R2-score
 
-<img src="" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/33_pv_r2_barplot.jpg" width ="40%"/>
 
 * Mean Absolute Error - MAE
 
-<img src="" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/34_pv_mae_barplot.jpg" width ="40%"/>
 
 ## Summary
 
