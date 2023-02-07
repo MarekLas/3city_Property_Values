@@ -8,7 +8,7 @@
 
 ## Context
 
-Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and Gdynia. Price for 1 square meters is our label data.
+Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and Gdynia. Price for 1 square meter is our label data.
 
 ## Data Dictionary
 
@@ -130,12 +130,12 @@ Area of the room belonging to the premises. I decided to remove some outliers an
 ## Belongin room
 After final data cleaning, 12 categories remained from 30.
 
-<img src="" align="center" width ="35%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/16_pv_belonging_room_countplot.jp" align="center" width ="60%"/>
+
 ## Rooms
+Number of rooms in the property. Problematic and dirty column. Number of rooms placed in sentences. Lots of wrong data. I sumed the numbers of room to evaluate the quality of the data. The quality was rather poor.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/16_pv_belonging_room_countplot.jpg" align="center" width ="60%"/>
-
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17_pv_numbers_of_rooms_countplot.jpg" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17_pv_numbers_of_rooms_countplot.jp" align="center" width ="60%"/>
 
 ## Updated prices
 It was created by multiplying price for 1 square meter and usable area. I decided to use for some data cleaning, but it was no sens to use it in predictions.
