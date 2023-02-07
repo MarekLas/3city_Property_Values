@@ -8,27 +8,27 @@
 
 ## Context
 
-Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and Gdynia.
+Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and Gdynia. Price for 1 square meters is our label data.
 
 ## Data Dictionary
 
-* Data transakcji/Transaction date - day, month and year of the transaction.
+* Data transakcji/Date - day, month and year of the transaction.
 
 * Miasto/City - one of the three cities: Gdańsk, Sopot and Gdynia.
 
 * Obręb/Precinct - part of the city where the premises is located.
 
-* Zbyte prawo/ Sold right - the legal status of the premises.
+* Zbyte prawo/Sold right - the legal status of the premises.
 
-* Pu lokalu [m2]/ Usable area - area of the property.
+* Pu lokalu [m2]/Usable area - area of the property.
 
-* Pow. przynależna [m2]/ Assigned area - area ofthe belonging room.
+* Pow. przynależna [m2]/Assigned area - area ofthe belonging room.
 
 * Pom. przynależne/Belonging room - the room outside the premises that belongs to it.
 
 * Cena 1m2 bez VAT [zł]/Price 1m2 - the labael column. Price for one squared meter without VAT.
 
-* Zakt.cena bez VAT [zł]/Updited price - secondary data. The product of the area of the premises and the price fo 1 squared meter.
+* Zakt.cena bez VAT [zł]/Updated price - secondary data. The product of the area of the premises and the price fo 1 squared meter.
 
 * Program użytkowy/Rooms - number and types of rooms.
 
@@ -56,19 +56,25 @@ After the first review of the data, I decided to change the columns names to Eng
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/06_pv_data_rename.JPG" align="center" width ="100%"/>
 
 ## Data information
+There is a lot of text data and some missing values.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/03_pv_info.JP" align="center" width ="30%"/>
 
 ## Data describe
+We can see that the are some disturbing values.
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04_pv_describe.JP" align="center" width ="50%"/>
+
+## Duplicated rows
+Thera are 40 duplicated rows that we have to delete.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04_pv_describe.JP" align="center" width ="50%"/>
 
 ## Missing values
-
+There are missing values in two columns, but only in 3 rows. i decidet to drop this rows.
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/05_pv_isnull.JP" align="center" width ="20%"/>
 
 ## Price for 1 squared meter
-
+This is the label column. Let's see what the data looks like.
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/07_pv_price_for_1m2_hist.jpg" align="center" width ="50%"/>
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/08_pv_price_for_1m2_boxplot.jpg" align="center" width ="35%"/>
