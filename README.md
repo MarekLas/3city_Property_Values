@@ -145,26 +145,29 @@ It was created by multiplying price for 1 square meter and usable area. I decide
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17b_pv_updted_prices_boxplot.jpg" align="center" width ="35%"/>
 
 ## Storey
+Floor on which the premises is located. I decided to divide the to three main categories: very_good, good, bad.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/18_pv_storey_cat.png" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/18_pv_storey_cat.pn" align="center" width ="60%"/>
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/19_pv_storey_countplot.jpg" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/19_pv_storey_countplot.jp" align="center" width ="60%"/>
 
 ## Seller
-
+There are 12 different categories of sellers. Most of the sellers were indyvidual persons.
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/20_pv_sellers_countplot.jpg" align="center" width ="60%"/>
 
 ## Buyer
+There are 8 differentcategories of buyers. Most of the sellers were also indyvidual persons.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21_pv_buyers_countplot.jpg" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21_pv_buyers_countplot.jp" align="center" width ="60%"/>
 
 ## Final dataframe
+For the begining I decided to use almost every column in the data. Except the obious ones: 'Updated_price', 'Rooms', 'Storey', 'Rooms_sum'.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21a_pv_final_data.jpg" align="center" width ="50%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21a_pv_final_data.jp" align="center" width ="50%"/>
 
 ## Correlation matrix
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/22_pv_correlation_matrix.jpg" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/22_pv_correlation_matrix.jp" align="center" width ="60%"/>
 
 ## Dependiencies
 
