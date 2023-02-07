@@ -50,21 +50,22 @@ Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and 
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/02_pv_data.JPG" align="center" width ="100%"/> 
 
+## Change the columns names
+After the first review of the data, I decided to change the columns names to English.
+
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/06_pv_data_rename.JPG" align="center" width ="100%"/>
+
 ## Data information
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/03_pv_info.JPG" align="center" width ="30%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/03_pv_info.JP" align="center" width ="30%"/>
 
 ## Data describe
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04_pv_describe.JPG" align="center" width ="50%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04_pv_describe.JP" align="center" width ="50%"/>
 
 ## Missing values
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/05_pv_isnull.JPG" align="center" width ="20%"/>
-
-## Change the columns names
-
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/06_pv_data_rename.JPG" align="center" width ="100%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/05_pv_isnull.JP" align="center" width ="20%"/>
 
 ## Price for 1 squared meter
 
