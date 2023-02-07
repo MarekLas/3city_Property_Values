@@ -62,6 +62,7 @@ There is a lot of text data and some missing values.
 
 ## Data describe
 We can see that the are some disturbing values.
+
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04_pv_describe.JP" align="center" width ="50%"/>
 
 ## Duplicated rows
@@ -71,6 +72,7 @@ Thera are 40 duplicated rows that we have to delete.
 
 ## Missing values
 There are missing values in two columns, but only in 3 rows. i decidet to drop this rows.
+
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/05_pv_isnull.JP" align="center" width ="20%"/>
 
 ## Price for 1 squared meter
@@ -153,6 +155,7 @@ Floor on which the premises is located. I decided to divide the to three main ca
 
 ## Seller
 There are 12 different categories of sellers. Most of the sellers were indyvidual persons.
+
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/20_pv_sellers_countplot.jpg" align="center" width ="60%"/>
 
 ## Buyer
