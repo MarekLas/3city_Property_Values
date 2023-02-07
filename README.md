@@ -86,12 +86,24 @@ I decided to divide Datecolun to column: Year, Month and Day.
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/09_date_to_year_month_day.JPG" align="center" width ="100%"/>
 
 ## City
-The study area covers three cities: Gdańsk, Gdynia, Sopot. We can see that most of the transactions come from Gdańsk.
+The study area covers three cities: Gdańsk, Gdynia, Sopot. We can see that most of the transactions was made in Gdańsk.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/10_pv_cities.jp" align="center" width ="60%"/>
 
 ## Precinct
 There are 80 percints in the data. I decided to group them into larger urban areas and change the column name to 'Urban area'.
+The new areas:
+* Gdańsk Oliwa
+* Gdańsk Port
+* Gdańsk Południe
+* Gdańsk Wrzeszcz
+* Gdańsk Zachód
+* Gdynia Centrum
+* Gdynia Port
+* Gdynia Północ
+* Gdynia Przymorze
+* Gdynia Zachód
+* Sopot
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/11_pv_urban_areas.jpg" align="center" width ="60%"/>
 
