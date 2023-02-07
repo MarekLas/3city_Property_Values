@@ -74,20 +74,24 @@ There are missing values in two columns, but only in 3 rows. i decidet to drop t
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/05_pv_isnull.JP" align="center" width ="20%"/>
 
 ## Price for 1 squared meter
-This is the label column. Let's see what the data looks like.
+This is the label column. Let's see what the data looks like after removing some outliers.
+
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/07_pv_price_for_1m2_hist.jpg" align="center" width ="50%"/>
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/08_pv_price_for_1m2_boxplot.jpg" align="center" width ="35%"/>
 
 ## Date
+I decided to divide Datecolun to column: Year, Month and Day.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/09_date_to_year_month_day.JPG" align="center" width ="100%"/>
 
 ## City
+The study area covers three cities: Gdańsk, Gdynia, Sopot. We can see that most of the transactions come from Gdańsk.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/10_pv_cities.jpg" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/10_pv_cities.jp" align="center" width ="60%"/>
 
 ## Precinct
+There are 80 percints in the data. I decided to group them into larger urban areas and change the column name to 'Urban area'.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/11_pv_urban_areas.jpg" align="center" width ="60%"/>
 
