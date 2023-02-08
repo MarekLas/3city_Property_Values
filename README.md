@@ -108,10 +108,10 @@ The new areas:
 * Gdynia Zachód
 * Sopot
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/11_pv_urban_areas.jpg" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/11_pv_urban_areas_v2.jpg" align="center" width ="60%"/>
 
 ## Sold right
-Type of rights assigned to the property. There are only two row without sold right value, so I decided to drop them.
+Type of rights assigned to the property. There are only two rows without sold right value, so I decided to drop them.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/12_pv_sold_right.jpg" align="center" width ="60%"/>
 
