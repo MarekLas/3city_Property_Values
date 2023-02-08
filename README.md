@@ -125,9 +125,7 @@ There was some outliers in the data so I decided to use 'remove_outlier' functio
 ## Assign area
 Area of the room belonging to the premises. I decided to remove some outliers and assign areas with value 1 (obious mistake) to value 0.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/14_pv_assign_area_hist.jpg" align="center" width ="60%"/>
-
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/15_pv_asign_area_boxplot.jp" align="center" width ="35%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/14_pv_assign_area_hist_v2.jpg" align="center" width ="60%"/>
 
 ## Belongin room
 After final data cleaning, 12 categories remained from 30.
