@@ -83,7 +83,7 @@ This is the label column. Let's see what the data looks like after removing some
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/08_pv_price_for_1m2_boxplot.jpg" align="center" width ="35%"/>
 
 ## Date
-I decided to divide Datecolun to column: Year, Month and Day.
+I decided to divide Date column to the columns: Year, Month and Day.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/09_date_to_year_month_day.JPG" align="center" width ="100%"/>
 
