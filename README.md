@@ -145,9 +145,7 @@ Number of rooms in the property. Problematic and dirty column. Number of rooms p
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17_pv_numbers_of_rooms_countplot_v2.jpg" align="center" width ="70%"/>
 
 ## Storey
-Floor on which the premises is located. I decided to divide the to three main categories: very_good, good, bad.
-
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/18_pv_storey_cat.pn" align="center" width ="60%"/>
+Floor on which the premises is located. I decided to divide them to the three main categories: very_good, good, bad.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/19_pv_storey_countplot.jp" align="center" width ="60%"/>
 
