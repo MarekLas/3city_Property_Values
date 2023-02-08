@@ -73,7 +73,7 @@ Thera are 40 duplicated rows that I have to delete.
 ## Missing values
 There are missing values in two columns, but only in 3 rows. i decidet to drop this rows.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/05_pv_isnull.JP" align="center" width ="20%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/05_pv_isnull_v2.JPG" align="center" width ="100%"/>
 
 ## Price for 1 squared meter
 This is the label column. Let's see what the data looks like after removing some outliers.
