@@ -56,7 +56,7 @@ After the first review of the data, I decided to change the columns names to Eng
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/06_pv_data_rename.JPG" align="center" width ="100%"/>
 
 ## Data information
-There is a lot of text data and some missing values.
+There is a lot of text data and some missing values.There is also 7.5 MB usage :/.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/03_pv_info.JP" align="center" width ="30%"/>
 
