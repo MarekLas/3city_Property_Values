@@ -140,9 +140,9 @@ It was created by multiplying price for 1 square meter and usable area. I decide
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17b_pv_updted_prices_boxplot.jpg" align="center" width ="35%"/>
 
 ## Rooms
-Number of rooms in the property. Problematic and dirty column. Number of rooms placed in sentences. Lots of wrong data. I sumed the numbers of rooms to evaluate the quality of the data. The quality turned out to be rather poor.
+Number of rooms in the property. Problematic and dirty column. Number of rooms placed in sentences. Lots of wrong data. I sumed up the numbers of rooms to evaluate the quality of the data. The quality turned out to be rather poor.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17_pv_numbers_of_rooms_countplot.jp" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/17_pv_numbers_of_rooms_countplot_v2.jpg" align="center" width ="70%"/>
 
 ## Storey
 Floor on which the premises is located. I decided to divide the to three main categories: very_good, good, bad.
