@@ -90,7 +90,7 @@ I decided to divide Date column to the columns: Year, Month and Day.
 ## City
 The study area covers three cities: Gdańsk, Gdynia, Sopot. We can see that most of the transactions was made in Gdańsk.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/10_pv_cities_v2.jpg" align="center" width ="70%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/10_pv_cities_v2.jpg" align="center" width ="80%"/>
 
 ## Precinct
 There are 80 percints in the data. I decided to group them into larger urban areas and change the column name to 'Urban area'.
@@ -113,7 +113,7 @@ The new areas:
 ## Sold right
 Type of rights assigned to the property. There are only two rows without sold right value, so I decided to drop them.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/12_pv_sold_right.jpg" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/12_pv_sold_right_v2.jpg" align="center" width ="80%"/>
 
 ## Usable area
 there was some outliers in the data so a decided to use remove_outlier function to delete them.
