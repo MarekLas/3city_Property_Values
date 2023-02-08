@@ -116,14 +116,14 @@ Type of rights assigned to the property. There are only two rows without sold ri
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/12_pv_sold_right_v2.jpg" align="center" width ="80%"/>
 
 ## Usable area
-there was some outliers in the data so a decided to use remove_outlier function to delete them.
+There was some outliers in the data so I decided to use 'remove_outlier' function to delete them.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/13_pv_usable_area_hist.jpg" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/13_pv_usable_area_hist.jpg" align="center" width ="50%"/>
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/14a_pv_usable_area_boxplot.jpg" align="center" width ="35%"/>
 
 ## Assign area
-Area of the room belonging to the premises. I decided to remove some outliers and assign areas with value 1 to value 0.
+Area of the room belonging to the premises. I decided to remove some outliers and assign areas with value 1 (obious mistake) to value 0.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/14_pv_assign_area_hist.jpg" align="center" width ="60%"/>
 
