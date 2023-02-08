@@ -85,7 +85,7 @@ This is the label column. Let's see what the data looks like after removing some
 ## Date
 I decided to divide Date column to the columns: Year, Month and Day.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/09_date_to_year_month_day.JPG" align="center" width ="100%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/09_date_to_year_month_day_v2.JPG" align="center" width ="100%"/>
 
 ## City
 The study area covers three cities: Gdańsk, Gdynia, Sopot. We can see that most of the transactions was made in Gdańsk.
