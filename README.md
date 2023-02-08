@@ -147,7 +147,7 @@ Number of rooms in the property. Problematic and dirty column. Number of rooms p
 ## Storey
 Floor on which the premises is located. I decided to divide them to the three main categories: very_good, good, bad.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/19_pv_storey_countplot.jp" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/19_pv_storey_countplot_v2.jpg" align="center" width ="60%"/>
 
 ## Seller
 There are 12 different categories of sellers. Most of the sellers were indyvidual persons.
