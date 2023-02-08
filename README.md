@@ -68,7 +68,7 @@ We can see that the are some disturbing values.
 ## Duplicated rows
 Thera are 40 duplicated rows that I have to delete.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04_pv_describe.JP" align="center" width ="50%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04a_pv_duplicated.JPG" align="center" width ="30%"/>
 
 ## Missing values
 There are missing values in two columns, but only in 3 rows. i decidet to drop this rows.
