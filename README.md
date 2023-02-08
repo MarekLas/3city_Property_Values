@@ -160,9 +160,9 @@ There are 8 different categories of buyers. Most of the buyers were also indyvid
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21_pv_buyers_countplot_v2.jpg" align="center" width ="70%"/>
 
 ## Final dataframe
-For the begining I decided to use almost every column in the data. Except the obious ones: 'Updated_price', 'Rooms', 'Storey', 'Rooms_sum'.
+For the first analysis I decided to use almost every column in the data. Except the obious ones: 'Updated_price', 'Rooms', 'Storey', 'Rooms_sum'.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21a_pv_final_data.jp" align="center" width ="50%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21a_pv_final_data_v2.jpg" align="center" width ="100%"/>
 
 ## Correlation matrix
 
