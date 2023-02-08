@@ -90,7 +90,7 @@ I decided to divide Date column to the columns: Year, Month and Day.
 ## City
 The study area covers three cities: Gdańsk, Gdynia, Sopot. We can see that most of the transactions was made in Gdańsk.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/10_pv_cities.jp" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/10_pv_cities_v2.jpg" align="center" width ="70%"/>
 
 ## Precinct
 There are 80 percints in the data. I decided to group them into larger urban areas and change the column name to 'Urban area'.
