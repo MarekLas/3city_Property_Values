@@ -93,7 +93,7 @@ The study area covers three cities: Gdańsk, Gdynia, Sopot. We can see that most
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/10_pv_cities_v2.jpg" align="center" width ="80%"/>
 
 ## Precinct
-There are 80 percints in the data. I decided to group them into larger urban areas and change the column name to 'Urban area'.
+There are 80 precints in the data. I decided to group them into larger urban areas and change the column name to 'Urban area'.
 The new areas:
 * Gdańsk Oliwa
 * Gdańsk Port
