@@ -152,12 +152,12 @@ Floor on which the premises is located. I decided to divide them to the three ma
 ## Seller
 There are 12 different categories of sellers. Most of the sellers were indyvidual persons.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/20_pv_sellers_countplot.jpg" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/20_pv_sellers_countplot_v2.jpg" align="center" width ="70%"/>
 
 ## Buyer
-There are 8 differentcategories of buyers. Most of the sellers were also indyvidual persons.
+There are 8 different categories of buyers. Most of the buyers were also indyvidual persons.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21_pv_buyers_countplot.jp" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21_pv_buyers_countplot_v2.jpg" align="center" width ="70%"/>
 
 ## Final dataframe
 For the begining I decided to use almost every column in the data. Except the obious ones: 'Updated_price', 'Rooms', 'Storey', 'Rooms_sum'.
