@@ -160,13 +160,13 @@ There are 8 different categories of buyers. Most of the buyers were also indyvid
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21_pv_buyers_countplot_v2.jpg" align="center" width ="70%"/>
 
 ## Final dataframe
-For the first analysis I decided to use almost every column in the data. Except the obious ones: 'Updated_price', 'Rooms', 'Storey', 'Rooms_sum'.
+For the first analysis I decided to use almost every column in the data. Except the obious ones: 'Updated_price', 'Rooms', 'Storey', 'Rooms_sum'. There wa 10168 observations at the begining and memory usage 7.5 MB. Now we have 9156 entries and 565.6 KB memory usage.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/21a_pv_final_data_v2.jpg" align="center" width ="100%"/>
 
 ## Correlation matrix
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/22_pv_correlation_matrix.jp" align="center" width ="60%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/22_pv_correlation_matrix_v2.jpg" align="center" width ="50%"/>
 
 ## Dependiencies
 
@@ -182,45 +182,45 @@ For the first analysis I decided to use almost every column in the data. Except 
 
 ### Linear Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/26_pv_linear_regression_v2.jpg" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/26_pv_linear_regression_v2.jp" align="center" width ="40%"/>
 
 ### Lasso Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/27_pv_lasso_regression_v2.jpg" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/27_pv_lasso_regression_v2.jp" align="center" width ="40%"/>
 
 ### Adaboost Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28_pv_adaboost_regressor_v2.jpg" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28_pv_adaboost_regressor_v2.jp" align="center" width ="40%"/>
 
 ### Ridge Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/29_pv_ridge_regressor_v2.jpg" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/29_pv_ridge_regressor_v2.jp" align="center" width ="40%"/>
 
 ### Random Forest Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28b_pv_random_forest_v3.jpg" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28b_pv_random_forest_v3.jp" align="center" width ="40%"/>
 
 ### KNeighbors Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/30_pv_kneighbors_v2.jpg" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/30_pv_kneighbors_v2.jp" align="center" width ="40%"/>
 
 ### SVR Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/31_pv_svr_v2.jpg" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/31_pv_svr_v2.jp" align="center" width ="40%"/>
 
 ### Ranking table
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/32_pv_scores_mae_ranking_table.JPG" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/32_pv_scores_mae_ranking_table.JP" width ="40%"/>
 
 ### Barplot charts
 
 * Coefficient of determination - R2-score
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/33_pv_r2_barplot.jpg" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/33_pv_r2_barplot.jp" width ="40%"/>
 
 * Mean Absolute Error - MAE
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/34_pv_mae_barplot.jpg" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/34_pv_mae_barplot.jp" width ="40%"/>
 
 ## Summary
 
