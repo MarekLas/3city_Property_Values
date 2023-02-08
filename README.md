@@ -127,7 +127,7 @@ Area of the room belonging to the premises. I decided to remove some outliers an
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/14_pv_assign_area_hist_v2.jpg" align="center" width ="60%"/>
 
-## Belongin room
+## Belonging room
 After final data cleaning, 12 categories remained from 30.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/16_pv_belonging_room_countplot.jp" align="center" width ="60%"/>
