@@ -26,7 +26,7 @@ Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and 
 
 * Pom. przynależne/Belonging room - the room outside the premises that belongs to it.
 
-* Cena 1m2 bez VAT [zł]/Price 1m2 - the labael column. Price for one squared meter without VAT.
+* Cena 1m2 bez VAT [zł]/Price 1m2 - the label column. Price for one squared meter without VAT.
 
 * Zakt.cena bez VAT [zł]/Updated price - secondary data. The product of the area of the premises and the price fo 1 squared meter.
 
