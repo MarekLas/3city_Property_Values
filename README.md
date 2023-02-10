@@ -22,7 +22,7 @@ Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and 
 
 * Pu lokalu [m2]/Usable area - area of the property.
 
-* Pow. przynależna [m2]/Assigned area - area ofthe belonging room.
+* Pow. przynależna [m2]/Assigned area - area of the belonging room.
 
 * Pom. przynależne/Belonging room - the room outside the premises that belongs to it.
 
