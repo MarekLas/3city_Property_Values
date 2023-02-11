@@ -26,9 +26,9 @@ Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and 
 
 * Pom. przynależne/Belonging room - the room outside the premises that belongs to it.
 
-* Cena 1m2 bez VAT [zł]/Price 1m2 - the label column. Price for one squared meter without VAT.
+* Cena 1m2 bez VAT [zł]/Price 1m2 - the label column. Price for the one squared meter without VAT.
 
-* Zakt.cena bez VAT [zł]/Updated price - secondary data. The product of the area of the premises and the price for 1 squared meter.
+* Zakt.cena bez VAT [zł]/Updated price - secondary data. The product of the area of the premises and the price for the 1 squared meter.
 
 * Program użytkowy/Rooms - number and types of rooms.
 
@@ -56,7 +56,7 @@ After the first review of the data, I decided to change the columns names to Eng
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/06_pv_data_rename.JPG" align="center" width ="100%"/>
 
 ## Data information
-There is a lot of text data and some missing values.There is also 7.5 MB usage :/.
+There is a lot of text data and some missing values.There is also 7.5 MB memory usage :/.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/03_pv_info_v2.JPG" align="center" width ="30%"/>
 
