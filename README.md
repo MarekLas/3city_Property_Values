@@ -1,7 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MarekLas/3city_Property_Values)
 
-<img align="center" width ="30%" src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/work_in_progress.webp" />
-
 <img align="center" width ="100%" src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/smart-city.gif" />
 
 # 3City - Property values
@@ -10,6 +8,7 @@
 
 ### Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and Gdynia. Price for 1 square meter is our label data.
 
+About the cities:
 
 'Gdynia is a relatively young city transformed from a village to an important industrial and maritime city between 1920 and 1930, with a population today of approximately 250 thousand. Numerous businesses are based here, in particular those which deal with international trade, shipping and fishing.
 
