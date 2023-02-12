@@ -8,7 +8,28 @@
 
 ## Context
 
-Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and Gdynia. Price for 1 square meter is our label data.
+### Sales transactions of premises in 2021-2022 in the cities of Gdańsk, Sopot and Gdynia. Price for 1 square meter is our label data.
+
+
+'Gdynia is a relatively young city transformed from a village to an important industrial and maritime city between 1920 and 1930, with a population today of approximately 250 thousand. Numerous businesses are based here, in particular those which deal with international trade, shipping and fishing.
+
+Places of interest are plentiful in Gdynia. Three of them are located around Kościuszko Square: the Oceanographic Museum, the Marine Aquarium and the Naval Museum. Marine enthusiasts can visit the ship museums moored in the southern dockyard to see the ORP Błyskawica ("Lightning") destroyer and the Dar Pomorza sailing ship. Those who prefer relaxing promenades will appreciate the seashore boulevards lined with cafés and taverns where shanties play and sailors recount tales to anyone willing to listen.
+It is worth looking at the repertoire of the Music Theatre and the Drama Theatre in Gdynia. They are known for holding premieres by authors and artists from all parts of the world. Every summer the city becomes a venue for acclaimed international jazz musicians who participate in the Gdynia Summer Jazz Festival.
+
+Some important sporting events are organised here regularly, conditions are very good for practicing water sports in the region; Gdynia Sailing Days or The Cutty Sark Tall Ships Race - a spectacular parade of tall ships from distant seas and countries. These events are always accompanied by artistic presentations and performances in which every one in the city is involved, especially during the partying and revelry.
+
+Sopot, called the summer capital of Poland, is a busy place especially in the holiday season and welcomes tourists from around the world. The city centre is located along Bohaterów Monte Cassino Street, on the shore, along a beautiful promenade, closed to traffic, with plenty of restaurants and clubs. Straying a little from this promenade into one of the small streets of the town is all it takes to discover a different face of Sopot.
+
+The famous Sopot pier juts out of Bohaterów Monte Cassino Street and is the longest wooden construction of this kind in Europe. From it there is a wonderful view of the Gulf of Gdańsk and a marvellous panorama of the city. Near the pier, there is a lighthouse open to the public. Plays and performances by the Atelier Theatre located nearby are an interesting option for summer evenings.
+
+The city offers accommodation in hotels and private guest houses, some or which are in historical villas just by the sea.
+
+With over 1000 years of history and tradition Gdańsk offers visitors many interesting monuments located mostly along Długa Street and its direct surroundings. 16th and 17th century renovated residences line the street on an itinerary leading to the Old Town. Each building has its unique form and character mirroring that of its original owner.
+The Gothic Main Town Hall houses the historical museum of the city. The Neptune Fountain, the symbol of the city, stands in Długa Street. The High Gate (Brama Wyżynna), together with the Executioner's House and the Prison Tower (Katownia), the Golden Gate (Złota Brama) and The Amber Museum should be visited. On the quayside of the Mołtawa River stands the Crane, the biggest Medieval port crane in Europe. The Old Town is rich in ecclesiastical monuments, among which, the largest brick built church in Europe, the St. Mary Basilica (Kościół Mariacki), deserves special attention.
+
+Gdańsk is not only the history of the past millennium. Modern Gdańsk is also the home of Lech Wałęsa, one of the founders of "Solidarność", Nobel Peace laureate and former President of Poland. Many places in Gdańsk are closely linked to the "Solidarność" movement. One of them, The Pomnik Poległych Stoczniowców, also known as the Monument of Three Crosses, was erected to commemorate those who gave their lives in the streets of Gdańsk in the fight for democracy.'
+
+ ###### source: https://www.poland.travel/en/news/welcome-to-the-tricity
 
 ## Data Dictionary
 
