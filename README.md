@@ -228,7 +228,7 @@ For the first analysis I decided to use almost every column from the data, excep
 
 ### Ranking table
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/32a_pv_scores_mae_rmse_ranking_table.JPG" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/32a_pv_scores_mae_rmse_ranking_table.JPG" width ="50%"/>
 
 ### Barplot charts
 
