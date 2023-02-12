@@ -58,7 +58,7 @@ After the first review of the data, I decided to change the columns names to Eng
 ## Data information
 There is a lot of text data and some missing values.There is also 7.5 MB memory usage :/.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/03_pv_info_v2.JPG" align="center" width ="30%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/03_pv_info_v2.JPG" align="center" width ="35%"/>
 
 ## Data describe
 We can see that the are some disturbing values.
