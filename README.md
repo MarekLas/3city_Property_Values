@@ -246,6 +246,8 @@ For the first analysis I decided to use almost every column from the data, excep
 
 ## Summary
 
+After the first experiments, it turned out that none of the models achieved spectacular results. The RandomForrest model behaves best with the current data.Although the DecisionTree model looks the best at first glance, the metrics indicate something completely different. The LinearRegression model was successfully trained on unscaled data. Definetely more experiments are needed to improve the results. Next, hopefully better results, I will post on a regular basis.
+
 <img align="center" width ="30%" src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/work_in_progress.webp" />
 
 
