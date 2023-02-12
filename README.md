@@ -168,16 +168,6 @@ For the first analysis I decided to use almost every column from the data, excep
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/22_pv_correlation_matrix_v2.jpg" align="center" width ="50%"/>
 
-## Dependiencies
-
-### Cities
-
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/23_pv_pairplot_cities.jpg" align="center" width ="60%"/>
-
-### Floor category
-
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/25_pv_pairplot_storey_cat.jpg" align="center" width ="60%"/>
-
 ## Models
 
 ### Linear Regression
