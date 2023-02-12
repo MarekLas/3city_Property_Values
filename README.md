@@ -60,7 +60,7 @@ Gdańsk is not only the history of the past millennium. Modern Gdańsk is also t
 
 ## <b>Link to the script</b>
 
-### <b></b>
+### <b>https://github.com/MarekLas/3city_Property_Values/blob/main/scripts/3city_property_values_v1.ipynb</b>
 
 ## Modules used in the script
 
