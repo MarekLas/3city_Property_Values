@@ -193,31 +193,39 @@ For the first analysis I decided to use almost every column from the data, excep
 
 ### Linear Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/26_pv_linear_regression_v2.jp" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/26_pv_linear_regression_v3.jpg" align="center" width ="40%"/>
 
 ### Lasso Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/27_pv_lasso_regression_v2.jp" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/27_pv_lasso_regression_v3.jpg" align="center" width ="40%"/>
 
 ### Adaboost Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28_pv_adaboost_regressor_v2.jp" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28_pv_adaboost_regressor_v3.jpg" align="center" width ="40%"/>
 
 ### Ridge Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/29_pv_ridge_regressor_v2.jp" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/29_pv_ridge_regressor_v3.jpg" align="center" width ="40%"/>
 
 ### Random Forest Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28b_pv_random_forest_v3.jp" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/28b_pv_random_forest_v4.jpg" align="center" width ="40%"/>
 
 ### KNeighbors Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/30_pv_kneighbors_v2.jp" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/30_pv_kneighbors_v3.jpg" align="center" width ="40%"/>
 
 ### SVR Regression
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/31_pv_svr_v2.jp" align="center" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/31_pv_svr_v3.jpg" align="center" width ="40%"/>
+
+### ElasticNet Regression
+
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/31a_pv_elasticnet_v1.jpg" align="center" width ="40%"/>
+
+### Decision Tree Regression
+
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/31b_pv_decision_tree_v1.jpg" align="center" width ="40%"/>
 
 ### Ranking table
 
