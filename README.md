@@ -229,17 +229,21 @@ For the first analysis I decided to use almost every column from the data, excep
 
 ### Ranking table
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/32_pv_scores_mae_ranking_table.JP" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/32a_pv_scores_mae_rmse_ranking_table.JPG" width ="40%"/>
 
 ### Barplot charts
 
 * Coefficient of determination - R2-score
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/33_pv_r2_barplot.jp" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/33_pv_r2_barplot_v2.jpg" width ="40%"/>
 
 * Mean Absolute Error - MAE
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/34_pv_mae_barplot.jp" width ="40%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/34_pv_mae_barplot_v2.jpg" width ="40%"/>
+
+* Root Mean Squared Error - RMSE
+
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/35_pv_rmse_barplot.jpg" width ="40%"/>
 
 ## Summary
 
