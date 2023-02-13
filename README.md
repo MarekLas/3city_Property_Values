@@ -86,7 +86,7 @@ We can see that the are some disturbing values.
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04_pv_describe_v2.JPG" align="center" width ="50%"/>
 
 ## Duplicated rows
-Thera are 40 duplicated rows that I have to delete.
+There are 40 duplicated rows that I have to delete.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04a_pv_duplicated.JPG" align="center" width ="30%"/>
 
