@@ -81,7 +81,7 @@ There is a lot of text data and some missing values.There is also 7.5 MB memory 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/03_pv_info_v2.JPG" align="center" width ="35%"/>
 
 ## Data describe
-We can see that the are some disturbing values.
+We can see that there are some disturbing values.
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/04_pv_describe_v2.JPG" align="center" width ="50%"/>
 
