@@ -73,7 +73,7 @@ Gdańsk is not only the history of the past millennium. Modern Gdańsk is also t
 ## Change the columns names
 After the first review of the data, I decided to change the columns names to English.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/06_pv_data_rename.JPG" align="center" width ="100%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/06_pv_data_rename.JPG" align="center" width ="110%"/>
 
 ## Data information
 There is a lot of text data and some missing values.There is also 7.5 MB memory usage :/.
