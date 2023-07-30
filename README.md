@@ -98,7 +98,7 @@ There are missing values in two columns, but only in 3 rows. i decidet to drop t
 ## Price for 1 squared meter
 This is the label column. Let's see what the data looks like after removing some outliers.
 
-<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/07_pv_price_for_1m2_hist.jpg" align="center" width ="54%"/>
+<img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/07_pv_price_for_1m2_hist.jpg" align="center" width ="55%"/>
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/08_pv_price_for_1m2_boxplot.jpg" align="center" width ="35%"/>
 
