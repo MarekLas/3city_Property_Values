@@ -253,24 +253,6 @@ After the first experiments, it turned out that none of the models achieved spec
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/MarekLas/3city_Property_Values)
 
-<svg xmlns='http://www.w3.org/2000/svg' width='960' height='540' viewBox='0 0 960 540'><style> .title { font: bold 28px "DejaVu Sans", Arial, sans-serif; fill: #1a1a1a; } .label { font: 18px "DejaVu Sans", Arial, sans-serif; fill: #1a1a1a; } .small { font: 16px "DejaVu Sans", Arial, sans-serif; fill: #1a1a1a; } rect { rx: 12; ry: 12; stroke-width: 3; stroke: #2f3b52; } </style><rect x='0' y='0' width='960' height='540' fill='#ffffff'/>
-<text x='480.0' y='60' text-anchor='middle' class='title'>Analiza czasowa i dystrybucje</text>
-<rect x='40' y='120' width='600' height='120' fill='#fdf2cc'/>
-<text x='340.0' y='180.0' text-anchor='middle' class='label'>Panel KPI</text>
-<rect x='680' y='120' width='240' height='240' fill='#d9e8fb'/>
-<text x='800.0' y='214.0' text-anchor='middle' class='label'>Filtry</text>
-<text x='800.0' y='240.0' text-anchor='middle' class='label'>Rok, Miasto</text>
-<text x='800.0' y='266.0' text-anchor='middle' class='label'>Prawo</text>
-<rect x='40' y='260' width='600' height='120' fill='#fde0d9'/>
-<text x='340.0' y='320.0' text-anchor='middle' class='label'>Trend cen miesięcznych</text>
-<rect x='40' y='400' width='280' height='120' fill='#ddefc2'/>
-<text x='180.0' y='460.0' text-anchor='middle' class='label'>Histogram powierzchni</text>
-<rect x='340' y='400' width='300' height='120' fill='#e5d4ef'/>
-<text x='490.0' y='460.0' text-anchor='middle' class='label'>Boxplot cen</text>
-<rect x='680' y='400' width='240' height='120' fill='#f6d8f0'/>
-<text x='800.0' y='460.0' text-anchor='middle' class='label'>Segmentacja kupującego</text>
-</svg>
-
 
 
 
