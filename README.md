@@ -62,6 +62,9 @@ Gdańsk is not only the history of the past millennium. Modern Gdańsk is also t
 
 ### <b>https://github.com/MarekLas/3city_Property_Values/blob/main/scripts/3city_property_values_v1.ipynb</b>
 
+## <b>Link to Tableau</b>
+### <b>https://public.tableau.com/app/profile/mareklaskowski/viz/Tricity/Stronatytuowa?publish=yes</b>
+
 ## Modules used in the script
 
 <img src="https://github.com/MarekLas/3city_Property_Values/blob/main/readme_files/01_pv_modules_v3.png" align="center" width ="71%"/> 
